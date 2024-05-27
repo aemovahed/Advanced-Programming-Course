@@ -1,2 +1,2 @@
 # Advanced-Programming-Course
-This repository contains computer assignments from the Advanced Programming course(Spring 2023) at the University of Tehran.
+This repository contains computer assignments for the Spring 2023 offering of the Advanced Programming course at the University of Tehran.
