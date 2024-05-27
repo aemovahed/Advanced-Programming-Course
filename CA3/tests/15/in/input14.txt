@@ -1,0 +1,9 @@
+3
+melika 2 Tuesday Sunday 1 Lit 
+aldang 2 Wednesday Monday 2 Lit BP 
+asghar 1 Saturday 2 Lit BP 
+4
+Math Monday Sunday 15:45 17:21
+AP Tuesday Monday 07:08 23:55
+BP Tuesday Wednesday 05:57 17:09
+Lit Monday Wednesday 09:48 20:47

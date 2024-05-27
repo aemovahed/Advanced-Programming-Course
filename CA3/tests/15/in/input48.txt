@@ -1,0 +1,11 @@
+5
+Ali 3 Wednesday Sunday Saturday 1 Math 
+kourosh 3 Wednesday Monday Saturday 1 BP 
+mozi 1 Wednesday 2 BP Math 
+ghazal 0 0 
+asghar 4 Wednesday Monday Sunday Saturday 2 Lit Math 
+4
+Math Monday Saturday 07:20 09:37
+AP Sunday Monday 00:53 17:55
+BP Tuesday Sunday 10:14 23:50
+Lit Monday Sunday 08:14 19:51

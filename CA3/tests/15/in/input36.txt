@@ -1,0 +1,14 @@
+8
+parsa 2 Monday Saturday 1 Lit 
+mozi 1 Tuesday 1 Lit 
+melika 2 Tuesday Monday 2 Lit BP 
+ghazal 2 Tuesday Saturday 3 BP AP Math 
+mostafa 2 Wednesday Monday 3 Lit BP Math 
+Ali 3 Tuesday Monday Sunday 1 BP 
+gelare 0 3 Lit AP Math 
+ghazale 2 Tuesday Saturday 2 AP Math 
+4
+Math Monday Sunday 15:28 23:14
+AP Saturday Sunday 05:18 22:45
+BP Monday Tuesday 09:20 14:27
+Lit Tuesday Saturday 12:27 15:16

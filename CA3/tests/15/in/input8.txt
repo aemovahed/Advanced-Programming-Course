@@ -1,0 +1,11 @@
+5
+parsa 3 Wednesday Tuesday Saturday 1 AP 
+elham 3 Tuesday Monday Sunday 1 Math 
+yalda 2 Tuesday Monday 2 Lit Math 
+ghazale 0 2 Lit AP 
+nisti 0 3 Lit AP Math 
+4
+Math Tuesday Monday 06:26 13:18
+AP Sunday Saturday 20:02 23:16
+BP Tuesday Wednesday 00:29 15:43
+Lit Tuesday Wednesday 00:28 07:41

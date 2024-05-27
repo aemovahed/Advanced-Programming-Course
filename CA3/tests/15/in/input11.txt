@@ -1,0 +1,16 @@
+10
+kiana 2 Tuesday Saturday 2 Lit AP 
+ghazal 3 Monday Sunday Saturday 2 BP AP 
+kianush 1 Sunday 3 Lit BP AP 
+parsa 2 Monday Saturday 3 BP AP Math 
+melika 2 Tuesday Sunday 3 Lit BP AP 
+Ali 3 Wednesday Tuesday Monday 3 BP AP Math 
+amir 2 Wednesday Sunday 0 
+yalda 1 Monday 0 
+mozi 2 Wednesday Saturday 1 BP 
+elham 3 Tuesday Monday Saturday 1 Math 
+4
+Math Tuesday Wednesday 00:02 18:17
+AP Sunday Tuesday 03:49 19:00
+BP Tuesday Monday 02:17 06:59
+Lit Tuesday Wednesday 00:49 18:57

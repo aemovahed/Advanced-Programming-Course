@@ -1,0 +1,17 @@
+11
+soroush 2 Tuesday Saturday 1 Math 
+melika 3 Wednesday Monday Saturday 2 Lit BP 
+gelare 1 Wednesday 1 Math 
+asghar 1 Saturday 2 AP Math 
+elham 2 Tuesday Saturday 2 AP Math 
+negar 1 Tuesday 2 AP Math 
+parsa 0 1 Lit 
+mostafa 3 Wednesday Monday Saturday 3 BP AP Math 
+ghazale 2 Monday Sunday 2 BP AP 
+nisti 0 0 
+yalda 2 Wednesday Tuesday 1 Math 
+4
+Math Saturday Tuesday 03:17 11:24
+AP Sunday Monday 06:08 22:31
+BP Sunday Monday 07:13 15:50
+Lit Saturday Monday 03:34 09:11

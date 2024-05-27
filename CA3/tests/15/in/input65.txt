@@ -1,0 +1,10 @@
+4
+negar 4 Wednesday Monday Sunday Saturday 1 Lit 
+yalda 4 Wednesday Tuesday Monday Saturday 1 Lit 
+nisti 0 1 Math 
+dorsa 1 Monday 1 AP 
+4
+Math Sunday Monday 00:30 20:55
+AP Sunday Wednesday 05:17 19:15
+BP Saturday Monday 01:04 09:12
+Lit Sunday Wednesday 04:51 20:46

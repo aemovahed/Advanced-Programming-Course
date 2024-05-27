@@ -1,0 +1,17 @@
+11
+gelare 1 Wednesday 1 Lit 
+kiana 2 Tuesday Sunday 3 Lit BP Math 
+negar 1 Saturday 1 Lit 
+ghazal 1 Monday 2 AP Math 
+parsa 3 Wednesday Sunday Saturday 0 
+ahmad 2 Wednesday Saturday 0 
+elham 2 Monday Sunday 1 Lit 
+Ali 2 Tuesday Monday 0 
+kianush 1 Wednesday 2 Lit BP 
+nisti 2 Wednesday Monday 1 Lit 
+amir 3 Wednesday Sunday Saturday 4 Lit BP AP Math 
+4
+Math Monday Tuesday 02:44 14:32
+AP Monday Saturday 06:12 10:56
+BP Saturday Wednesday 06:13 18:36
+Lit Wednesday Tuesday 18:19 20:16

@@ -1,0 +1,14 @@
+8
+parsa 0 1 BP 
+mostafa 1 Saturday 2 Lit BP 
+aldang 3 Wednesday Monday Saturday 1 Math 
+gelare 2 Wednesday Saturday 3 Lit BP Math 
+mozi 2 Tuesday Sunday 2 Lit AP 
+soroush 2 Wednesday Tuesday 2 Lit AP 
+kourosh 1 Sunday 2 BP Math 
+yalda 2 Wednesday Saturday 2 AP Math 
+4
+Math Saturday Wednesday 05:16 16:46
+AP Saturday Sunday 02:11 07:04
+BP Saturday Tuesday 08:11 23:27
+Lit Wednesday Tuesday 22:39 23:36

@@ -1,0 +1,17 @@
+11
+dorsa 1 Monday 2 Lit AP 
+parsa 0 1 BP 
+kianush 1 Tuesday 0 
+aldang 1 Wednesday 1 Lit 
+mozi 1 Tuesday 3 Lit BP Math 
+nisti 2 Monday Sunday 1 BP 
+ahmad 3 Wednesday Monday Saturday 1 Lit 
+elham 1 Sunday 1 Math 
+ghazale 1 Saturday 2 BP Math 
+ghazal 3 Wednesday Monday Saturday 0 
+kourosh 3 Wednesday Tuesday Saturday 3 BP AP Math 
+4
+Math Saturday Monday 00:58 18:41
+AP Saturday Monday 06:55 12:23
+BP Saturday Tuesday 04:17 23:13
+Lit Tuesday Sunday 06:48 10:17

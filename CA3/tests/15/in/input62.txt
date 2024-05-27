@@ -1,0 +1,14 @@
+8
+Ali 3 Wednesday Tuesday Sunday 2 BP AP 
+asghar 2 Monday Saturday 0 
+melika 1 Wednesday 0 
+elham 3 Wednesday Monday Sunday 1 BP 
+ghazale 2 Wednesday Tuesday 1 Math 
+dorsa 1 Monday 2 Lit AP 
+nisti 3 Wednesday Tuesday Sunday 2 BP AP 
+gelare 0 0 
+4
+Math Sunday Tuesday 07:52 14:15
+AP Tuesday Monday 01:28 06:59
+BP Tuesday Sunday 04:33 23:10
+Lit Saturday Sunday 04:01 16:13

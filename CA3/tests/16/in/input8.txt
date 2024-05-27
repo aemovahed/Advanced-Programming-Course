@@ -1,0 +1,15 @@
+
+8
+aldang 2 Wednesday Tuesday 0 
+negar 1 Tuesday 3 Lit BP AP 
+kianush 1 Monday 0 
+yalda 1 Monday 2 BP Math 
+mostafa 4 Wednesday Tuesday Monday Sunday 2 BP Math 
+dorsa 3 Tuesday Monday Saturday 0 
+gelare 2 Sunday Saturday 1 BP 
+nisti 2 Sunday Saturday 1 BP 
+4
+Math Monday Tuesday 03:24 12:51
+AP Tuesday Sunday 08:32 17:45
+BP Tuesday Sunday 04:56 10:50
+Lit Wednesday Monday 05:07 23:25

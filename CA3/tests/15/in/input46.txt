@@ -1,0 +1,14 @@
+8
+kiana 2 Tuesday Monday 1 Lit 
+kianush 3 Tuesday Sunday Saturday 2 BP AP 
+mostafa 1 Wednesday 2 Lit BP 
+melika 2 Tuesday Sunday 2 BP Math 
+elham 0 1 BP 
+yalda 1 Wednesday 1 BP 
+soroush 1 Sunday 1 Math 
+dorsa 0 1 BP 
+4
+Math Wednesday Tuesday 09:56 10:34
+AP Monday Saturday 07:49 13:16
+BP Sunday Tuesday 04:31 15:19
+Lit Saturday Sunday 03:01 10:44

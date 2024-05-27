@@ -1,0 +1,12 @@
+6
+parsa 2 Wednesday Saturday 1 AP 
+melika 2 Wednesday Saturday 0 
+kiana 3 Wednesday Sunday Saturday 2 BP Math 
+elham 2 Sunday Saturday 3 Lit AP Math 
+Ali 1 Monday 3 Lit BP AP 
+gelare 3 Wednesday Tuesday Saturday 1 BP 
+4
+Math Tuesday Sunday 01:06 17:11
+AP Saturday Sunday 00:45 03:57
+BP Wednesday Saturday 04:44 12:27
+Lit Wednesday Tuesday 03:59 12:06

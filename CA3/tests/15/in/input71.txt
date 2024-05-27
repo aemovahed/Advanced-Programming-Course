@@ -1,0 +1,13 @@
+7
+soroush 3 Tuesday Monday Saturday 2 AP Math 
+kiana 1 Sunday 1 BP 
+kourosh 1 Saturday 1 Lit 
+mostafa 0 1 Lit 
+melika 1 Monday 4 Lit BP AP Math 
+ghazal 2 Monday Saturday 3 Lit BP AP 
+amir 1 Sunday 2 Lit AP 
+4
+Math Sunday Monday 01:01 09:18
+AP Tuesday Monday 05:12 15:04
+BP Sunday Wednesday 02:09 10:30
+Lit Sunday Monday 11:26 19:16

@@ -1,0 +1,14 @@
+8
+kianush 4 Wednesday Tuesday Monday Saturday 2 Lit Math 
+gelare 1 Monday 3 BP AP Math 
+asghar 1 Saturday 3 Lit BP Math 
+mostafa 1 Wednesday 2 Lit AP 
+kiana 1 Saturday 0 
+yalda 1 Wednesday 3 Lit BP Math 
+parsa 1 Saturday 3 Lit AP Math 
+ghazale 1 Tuesday 2 AP Math 
+4
+Math Tuesday Sunday 11:02 11:54
+AP Saturday Monday 06:00 13:44
+BP Tuesday Sunday 04:56 12:05
+Lit Monday Saturday 03:27 15:00

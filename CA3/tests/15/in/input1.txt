@@ -1,0 +1,12 @@
+6
+gelare 2 Monday Sunday 1 AP 
+kourosh 3 Tuesday Monday Sunday 2 BP Math 
+soroush 0 2 BP Math 
+asghar 2 Tuesday Monday 2 AP Math 
+ahmad 1 Monday 0 
+ghazal 2 Tuesday Monday 2 BP Math 
+4
+Math Sunday Tuesday 08:18 18:15
+AP Sunday Saturday 07:48 21:45
+BP Tuesday Monday 04:04 14:15
+Lit Sunday Monday 09:29 18:10

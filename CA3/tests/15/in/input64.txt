@@ -1,0 +1,12 @@
+6
+yalda 2 Monday Sunday 2 BP Math 
+kianush 2 Monday Saturday 3 Lit BP Math 
+asghar 2 Tuesday Saturday 2 Lit AP 
+melika 2 Wednesday Saturday 2 BP Math 
+mostafa 3 Wednesday Tuesday Sunday 1 Math 
+mozi 2 Tuesday Sunday 2 BP Math 
+4
+Math Sunday Saturday 04:00 17:10
+AP Saturday Sunday 14:47 22:24
+BP Saturday Monday 03:05 13:16
+Lit Tuesday Saturday 05:41 20:25

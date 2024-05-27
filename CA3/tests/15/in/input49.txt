@@ -1,0 +1,13 @@
+7
+dorsa 4 Wednesday Monday Sunday Saturday 3 BP AP Math 
+amir 0 0 
+ahmad 1 Monday 2 AP Math 
+melika 2 Wednesday Saturday 1 Math 
+kiana 4 Wednesday Tuesday Sunday Saturday 3 BP AP Math 
+parsa 2 Tuesday Saturday 0 
+mostafa 1 Sunday 2 BP Math 
+4
+Math Saturday Sunday 00:18 23:07
+AP Saturday Wednesday 00:54 03:02
+BP Tuesday Saturday 01:26 13:20
+Lit Sunday Saturday 13:38 14:36

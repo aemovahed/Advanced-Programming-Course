@@ -1,0 +1,17 @@
+11
+ghazal 1 Monday 0 
+Ali 0 1 BP 
+aldang 1 Saturday 3 Lit BP AP 
+asghar 0 1 Lit 
+dorsa 1 Wednesday 1 BP 
+ghazale 2 Wednesday Monday 1 BP 
+amir 1 Saturday 1 Math 
+parsa 4 Wednesday Tuesday Sunday Saturday 2 Lit AP 
+soroush 1 Tuesday 1 AP 
+nisti 2 Tuesday Sunday 2 AP Math 
+negar 2 Wednesday Monday 1 Lit 
+4
+Math Sunday Tuesday 11:18 19:32
+AP Sunday Tuesday 05:38 21:50
+BP Tuesday Saturday 06:45 12:46
+Lit Tuesday Wednesday 13:18 15:27

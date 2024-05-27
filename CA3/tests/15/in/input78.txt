@@ -1,0 +1,15 @@
+9
+dorsa 3 Tuesday Monday Sunday 1 Lit 
+gelare 1 Saturday 2 Lit BP 
+ghazal 3 Wednesday Tuesday Monday 2 Lit AP 
+elham 1 Wednesday 1 Math 
+kiana 3 Wednesday Monday Sunday 1 Math 
+kourosh 3 Tuesday Monday Sunday 2 Lit AP 
+melika 2 Tuesday Sunday 0 
+nisti 1 Saturday 2 Lit AP 
+soroush 2 Wednesday Monday 2 BP AP 
+4
+Math Sunday Saturday 08:41 14:32
+AP Monday Wednesday 02:25 22:47
+BP Monday Saturday 00:46 01:36
+Lit Saturday Wednesday 01:17 14:35

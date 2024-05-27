@@ -1,0 +1,17 @@
+11
+elham 3 Tuesday Sunday Saturday 2 AP Math 
+asghar 1 Wednesday 0 
+amir 2 Sunday Saturday 0 
+kianush 1 Sunday 0 
+soroush 0 1 BP 
+nisti 2 Wednesday Monday 2 BP Math 
+ghazal 5 Wednesday Tuesday Monday Sunday Saturday 3 Lit BP Math 
+kiana 2 Tuesday Sunday 2 BP AP 
+mozi 0 0 
+ahmad 3 Wednesday Tuesday Saturday 0 
+ghazale 2 Tuesday Sunday 3 BP AP Math 
+4
+Math Wednesday Saturday 22:27 23:25
+AP Sunday Tuesday 06:46 13:51
+BP Monday Wednesday 04:40 14:30
+Lit Tuesday Monday 06:31 23:01

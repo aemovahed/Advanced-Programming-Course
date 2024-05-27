@@ -1,0 +1,13 @@
+7
+kourosh 2 Wednesday Sunday 1 AP 
+kiana 2 Tuesday Saturday 1 BP 
+nisti 3 Wednesday Sunday Saturday 1 AP 
+melika 3 Monday Sunday Saturday 2 BP AP 
+asghar 1 Tuesday 3 Lit BP AP 
+dorsa 2 Wednesday Sunday 1 AP 
+aldang 2 Sunday Saturday 1 Lit 
+4
+Math Sunday Wednesday 06:10 15:36
+AP Sunday Wednesday 11:12 23:18
+BP Monday Sunday 00:34 23:47
+Lit Monday Tuesday 04:13 17:56

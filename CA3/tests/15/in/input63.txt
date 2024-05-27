@@ -1,0 +1,16 @@
+10
+amir 2 Tuesday Sunday 1 Math 
+mozi 3 Wednesday Tuesday Monday 2 Lit BP 
+negar 0 2 AP Math 
+kourosh 1 Saturday 1 Math 
+soroush 1 Tuesday 0 
+melika 2 Tuesday Sunday 2 BP Math 
+aldang 3 Wednesday Monday Sunday 1 AP 
+Ali 0 1 AP 
+elham 3 Wednesday Monday Sunday 2 Lit AP 
+nisti 2 Sunday Saturday 2 Lit AP 
+4
+Math Tuesday Sunday 05:51 10:31
+AP Wednesday Sunday 01:52 06:47
+BP Saturday Monday 04:54 17:36
+Lit Sunday Wednesday 00:01 19:41

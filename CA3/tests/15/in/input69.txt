@@ -1,0 +1,13 @@
+7
+melika 2 Wednesday Tuesday 2 Lit BP 
+negar 2 Wednesday Monday 2 Lit AP 
+nisti 2 Wednesday Sunday 0 
+soroush 1 Monday 0 
+elham 2 Wednesday Saturday 3 Lit AP Math 
+aldang 4 Wednesday Tuesday Monday Saturday 0 
+kourosh 1 Tuesday 1 Math 
+4
+Math Saturday Wednesday 16:42 22:55
+AP Sunday Tuesday 06:27 19:53
+BP Monday Tuesday 07:50 20:31
+Lit Wednesday Tuesday 05:44 18:59

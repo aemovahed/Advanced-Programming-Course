@@ -1,0 +1,17 @@
+11
+mostafa 3 Monday Sunday Saturday 3 Lit BP AP 
+melika 3 Tuesday Sunday Saturday 1 Lit 
+ghazal 2 Wednesday Sunday 1 Math 
+nisti 0 0 
+mozi 1 Tuesday 0 
+yalda 0 0 
+dorsa 4 Wednesday Tuesday Monday Saturday 1 Lit 
+ghazale 2 Tuesday Saturday 3 Lit AP Math 
+asghar 1 Wednesday 3 BP AP Math 
+amir 2 Tuesday Saturday 1 BP 
+kourosh 4 Wednesday Monday Sunday Saturday 2 Lit AP 
+4
+Math Saturday Monday 04:07 12:45
+AP Tuesday Saturday 00:18 23:25
+BP Sunday Saturday 03:12 18:08
+Lit Tuesday Wednesday 14:36 15:16

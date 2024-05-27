@@ -1,0 +1,13 @@
+7
+ahmad 0 0 
+mostafa 1 Wednesday 1 Lit 
+yalda 1 Wednesday 1 Math 
+dorsa 1 Sunday 0 
+mozi 0 2 BP AP 
+parsa 2 Tuesday Monday 1 Math 
+negar 2 Wednesday Tuesday 1 AP 
+4
+Math Monday Tuesday 09:15 11:13
+AP Sunday Wednesday 00:35 21:51
+BP Wednesday Sunday 04:42 08:56
+Lit Tuesday Monday 02:04 20:19

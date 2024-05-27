@@ -1,0 +1,11 @@
+5
+soroush 1 Wednesday 1 AP 
+kianush 2 Tuesday Saturday 1 Math 
+melika 2 Tuesday Monday 2 BP AP 
+yalda 2 Monday Saturday 1 Math 
+aldang 3 Wednesday Tuesday Saturday 3 Lit AP Math 
+4
+Math Saturday Sunday 03:19 13:28
+AP Wednesday Saturday 07:47 19:33
+BP Tuesday Saturday 02:03 18:24
+Lit Tuesday Saturday 09:29 20:16

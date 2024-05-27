@@ -1,0 +1,16 @@
+10
+aldang 3 Tuesday Monday Saturday 1 Lit 
+kianush 1 Monday 2 BP AP 
+ghazal 1 Monday 3 BP AP Math 
+yalda 2 Monday Saturday 1 Math 
+ahmad 4 Tuesday Monday Sunday Saturday 3 Lit BP Math 
+nisti 1 Saturday 0 
+Ali 2 Wednesday Sunday 2 BP AP 
+elham 1 Monday 1 Math 
+kiana 2 Monday Saturday 2 AP Math 
+asghar 3 Wednesday Tuesday Saturday 3 Lit BP Math 
+4
+Math Saturday Sunday 07:43 19:02
+AP Monday Sunday 03:28 05:04
+BP Saturday Sunday 09:07 11:28
+Lit Tuesday Saturday 04:21 20:06

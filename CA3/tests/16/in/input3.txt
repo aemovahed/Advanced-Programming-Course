@@ -1,0 +1,14 @@
+8
+kianush 4 Wednesday Monday Sunday Saturday 3 BP AP Math 
+elham 3 Wednesday Tuesday Monday 1 Lit 
+gelare 1 Sunday 2 BP AP 
+aldang 2 Tuesday Saturday 0 
+asghar 4 Wednesday Tuesday Monday Saturday 2 Lit Math 
+parsa 2 Monday Sunday 1 Math 
+yalda 0 3 Lit BP AP 
+soroush 3 Wednesday Monday Saturday 0 
+4
+Math Saturday Monday 07:17 09:46
+AP Tuesday Saturday 17:39 20:01
+BP Saturday Wednesday 04:02 15:46
+Lit Saturday Tuesday 03:43 08:54

@@ -1,0 +1,17 @@
+11
+kianush 2 Tuesday Monday 4 Lit BP AP Math 
+dorsa 1 Monday 3 Lit BP AP 
+nisti 1 Monday 0 
+kiana 3 Wednesday Tuesday Monday 1 Math 
+ghazal 1 Monday 1 BP 
+Ali 2 Tuesday Sunday 1 Lit 
+asghar 3 Wednesday Tuesday Saturday 1 Math 
+mozi 2 Tuesday Monday 1 AP 
+yalda 3 Tuesday Monday Sunday 1 Math 
+elham 3 Tuesday Monday Saturday 2 BP AP 
+kourosh 1 Tuesday 1 Math 
+4
+Math Tuesday Monday 07:14 23:16
+AP Sunday Wednesday 11:26 23:24
+BP Sunday Tuesday 00:06 10:57
+Lit Monday Tuesday 07:35 14:09

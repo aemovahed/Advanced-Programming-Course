@@ -1,0 +1,10 @@
+4
+mostafa 3 Tuesday Monday Sunday 1 Lit 
+Ali 2 Tuesday Sunday 2 Lit Math 
+kourosh 1 Saturday 1 AP 
+parsa 3 Monday Sunday Saturday 0 
+4
+Math Wednesday Saturday 06:40 14:20
+AP Sunday Monday 04:50 15:54
+BP Wednesday Tuesday 03:04 07:04
+Lit Saturday Tuesday 02:26 08:07

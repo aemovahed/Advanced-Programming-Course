@@ -1,0 +1,11 @@
+5
+nisti 4 Wednesday Tuesday Monday Saturday 3 Lit AP Math 
+ahmad 2 Monday Sunday 2 Lit Math 
+ghazal 0 1 Lit 
+amir 2 Monday Saturday 1 Lit 
+ghazale 0 2 BP Math 
+4
+Math Monday Sunday 03:49 11:25
+AP Sunday Monday 17:00 17:18
+BP Monday Sunday 14:08 17:29
+Lit Sunday Monday 02:18 03:33

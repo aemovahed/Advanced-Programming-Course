@@ -1,0 +1,15 @@
+9
+mostafa 0 1 Lit 
+gelare 3 Wednesday Tuesday Monday 1 BP 
+parsa 1 Sunday 2 Lit BP 
+ghazal 0 0 
+Ali 2 Tuesday Saturday 2 BP Math 
+kianush 0 0 
+ghazale 2 Wednesday Saturday 0 
+dorsa 3 Wednesday Tuesday Monday 2 BP Math 
+aldang 1 Monday 2 Lit AP 
+4
+Math Saturday Wednesday 06:20 14:58
+AP Wednesday Tuesday 09:29 11:42
+BP Tuesday Monday 05:37 11:31
+Lit Wednesday Saturday 10:07 14:55

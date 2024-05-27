@@ -1,0 +1,13 @@
+7
+aldang 1 Monday 1 Lit 
+elham 2 Wednesday Monday 1 Math 
+mozi 1 Saturday 0 
+kianush 3 Wednesday Tuesday Monday 2 Lit BP 
+dorsa 2 Wednesday Monday 2 Lit Math 
+ghazal 1 Monday 1 Lit 
+ghazale 3 Wednesday Tuesday Saturday 3 Lit AP Math 
+4
+Math Wednesday Monday 09:11 17:39
+AP Tuesday Wednesday 09:29 12:45
+BP Saturday Wednesday 16:33 18:07
+Lit Saturday Monday 17:21 18:05

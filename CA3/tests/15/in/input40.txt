@@ -1,0 +1,10 @@
+4
+kianush 4 Wednesday Monday Sunday Saturday 1 Math 
+yalda 0 1 Lit 
+ahmad 3 Wednesday Monday Saturday 1 Lit 
+soroush 1 Saturday 0 
+4
+Math Wednesday Tuesday 05:16 13:04
+AP Wednesday Saturday 02:34 12:31
+BP Tuesday Monday 04:25 10:35
+Lit Wednesday Saturday 07:09 18:10

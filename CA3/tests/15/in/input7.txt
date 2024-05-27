@@ -1,0 +1,17 @@
+11
+Ali 1 Sunday 1 AP 
+mostafa 4 Wednesday Tuesday Monday Sunday 3 Lit BP Math 
+kianush 1 Sunday 0 
+kourosh 2 Wednesday Saturday 2 Lit Math 
+elham 3 Wednesday Monday Saturday 2 Lit Math 
+dorsa 4 Wednesday Monday Sunday Saturday 3 Lit AP Math 
+ghazale 1 Saturday 1 Lit 
+ahmad 1 Monday 2 Lit BP 
+yalda 1 Saturday 2 Lit AP 
+melika 1 Saturday 2 Lit BP 
+ghazal 2 Wednesday Sunday 1 AP 
+4
+Math Monday Saturday 03:18 14:29
+AP Saturday Sunday 13:11 18:20
+BP Saturday Tuesday 01:28 07:39
+Lit Monday Wednesday 01:59 17:34

@@ -1,0 +1,12 @@
+6
+melika 2 Monday Saturday 1 Math 
+dorsa 1 Saturday 1 Lit 
+soroush 1 Sunday 2 Lit Math 
+kiana 5 Wednesday Tuesday Monday Sunday Saturday 2 Lit Math 
+nisti 0 2 AP Math 
+ghazal 1 Saturday 1 AP 
+4
+Math Monday Wednesday 04:07 09:18
+AP Monday Tuesday 06:41 12:06
+BP Wednesday Tuesday 13:02 22:18
+Lit Saturday Tuesday 06:33 17:24

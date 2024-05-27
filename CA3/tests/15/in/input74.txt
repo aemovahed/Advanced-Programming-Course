@@ -1,0 +1,12 @@
+6
+asghar 1 Wednesday 2 Lit AP 
+mozi 2 Tuesday Sunday 1 Math 
+nisti 1 Tuesday 0 
+kourosh 1 Sunday 3 Lit BP AP 
+dorsa 3 Tuesday Sunday Saturday 2 Lit Math 
+yalda 4 Wednesday Tuesday Monday Saturday 1 Lit 
+4
+Math Tuesday Sunday 03:22 12:12
+AP Monday Saturday 16:05 22:27
+BP Saturday Sunday 02:33 21:22
+Lit Monday Wednesday 02:50 07:37
